@@ -1,3 +1,4 @@
 # Fake-Job-Detection
-This model is created using different machine learning algorithms. 
-The dataset used is taken from kaggle.
+A model to detect fake jobs based on selected criteria. 
+Trained using kaggle dataset.
+Applied various machine learning algorithms.
